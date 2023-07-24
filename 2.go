@@ -18,3 +18,7 @@ func video() {
 func fetch() {
 
 }
+
+func fetch2() {
+
+}
